@@ -1,0 +1,4 @@
+openai==1.*
+gradio==4.*
+pypdf==4.*
+python-dotenv==1.*
